@@ -1,2 +1,1 @@
-# Kuantum-e-itim-materyali
-materyal
+# Kuantum Turkey eğitim materyali
